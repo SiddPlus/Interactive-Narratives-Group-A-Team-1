@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/Doors/PlacingBomb/BP_Bomb.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/Doors/PlacingBomb/Door.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZR/8QM7ZL4MEM7JL9OB9YEJW0.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/Doors/GoNewLevel/BP_Gate.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/Doors/GoNewLevel/Street.umap",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/K1/XMMZWB88NL8U4EL3YXO2QG.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/SH/DCLS7ACF4HL63PMIWTWL9V.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/N4/E1G09H7RIAO58RH5S4UBXH.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/N4/69SKV7K1OIJHPHOJSFY811.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/33/2BYP3XH45HKU0193HHJTWJ.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GG/JDQ0WKFXC62JGGNA8TLCJJ.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/LT/0RNRQD92XDDYAK38FUNPIC.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PL/38ANVTQ1OEUYK76X1JAN6P.uasset",
+				"C:/Users/2304613/Documents/Unreal Projects/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LY/VVQ55H66VSMB35WXER22BS.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/BankHeist/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/BankHeist/Content/Doors/PlacingBomb/Door.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/CU/K84DEOSYWKQ0XIJTS6UDGD.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/BankHeist/Content/Doors/PlacingBomb/BPI_Interact.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZR/8QM7ZL4MEM7JL9OB9YEJW0.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/BankHeist/Content/Doors/PlacingBomb/IA_Interact.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/BankHeist/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/BankHeist/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/InventorySystem/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/InventorySystem/Content/Inventory/BPC_Inventory.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/InventorySystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/InventorySystem/Content/Inventory/BP_Item.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/InventorySystem/Content/Inventory/BPI_PickUp.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/InventorySystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/CU/K84DEOSYWKQ0XIJTS6UDGD.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/InventorySystem/Content/Inventory/WB_Inventory.uasset",
+				"C:/Users/Siddg/Documents/Unreal Projects/InventorySystem/Content/Inventory/WB_InventorySlot.uasset"
+			]
+		}
+	]
+}
