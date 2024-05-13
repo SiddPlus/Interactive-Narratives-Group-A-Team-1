@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2214312/Documents/GitHub/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/2304613/Documents/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/2304613/Documents/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/Doors/OpenClose/BP_OpenDoor.uasset",
 				"C:/Users/2304613/Documents/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/StarterContent/Props/SM_Door.uasset",
