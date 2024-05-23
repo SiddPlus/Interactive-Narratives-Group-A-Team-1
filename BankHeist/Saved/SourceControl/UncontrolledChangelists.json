@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2214312/Documents/GitHub/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/2214312/Documents/GitHub/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/Basement/basement.umap",
+				"C:/Users/2214312/Documents/GitHub/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/ThirdPerson/meshtest/meshetc/BP_Mike.uasset",
 				"C:/Users/2304613/Documents/GitHub/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/Doors/Shops/ShopDoor.uasset",
 				"C:/Users/2304613/Documents/GitHub/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EF/86QYLTKXOHNFOJNAXRGLEL.uasset",
 				"C:/Users/2304613/Documents/GitHub/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/CU/K84DEOSYWKQ0XIJTS6UDGD.uasset",
@@ -134,7 +137,6 @@
 				"C:/Users/2304613/Documents/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/9N/GBDYVIRS1JYU30FRP60NAV.uasset",
 				"C:/Users/2304613/Documents/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/Art/dh4vc59f.uasset",
 				"C:/Users/2304613/Documents/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/Doors/2D/WB_2DMenu.uasset",
-				"C:/Users/2214312/Documents/GitHub/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/2304613/Documents/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/K0/08CWAXUFA91FCQY6PRQPOX.uasset",
 				"C:/Users/2304613/Documents/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LY/VVQ55H66VSMB35WXER22BS.uasset",
 				"C:/Users/2304613/Documents/Interactive-Narratives-Group-A-Team-1/BankHeist/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PL/38ANVTQ1OEUYK76X1JAN6P.uasset",
